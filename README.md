@@ -108,5 +108,5 @@ Image URL
 
 🧑‍💻 Useful for learning CRUD operations and UI design
 
-<img width="1920" height="1030" alt="Output-2" src="https://github.com/user-attachments/assets/de9944c3-a6ab-4ed3-bed3-92af71ae45c7" 
+<img width="1920" height="1030" alt="Output-2" src="https://github.com/user-attachments/assets/de9944c3-a6ab-4ed3-bed3-92af71ae45c7" /> 
 <img width="1920" height="1030" alt="Output-1" src="https://github.com/user-attachments/assets/001f3594-f2fe-4b23-bae5-c4d05f773583" />
